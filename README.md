@@ -1,1 +1,1 @@
-UCSD Math 111A Modeling Crowdfuning Systems: Kickstarter
+UCSD Math 111A Modeling Crowdfunding Systems: Kickstarter
